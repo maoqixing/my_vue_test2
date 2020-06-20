@@ -4,7 +4,7 @@ import router from './router'
 
 Vue.config.productionTip = false;
 
-
+//阿斯蒂芬
 
 new Vue({
   router,
