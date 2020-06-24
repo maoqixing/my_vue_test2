@@ -1,4 +1,4 @@
-# my_vue_test2
+# my_vue_test2-参数传递
 
 ## Project setup
 ```
