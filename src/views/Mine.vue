@@ -29,8 +29,8 @@
 		props:['name','sex','height' ,'dog'],
 
 		created() {
-		// 	console.log(this.$route)
-		// //		console.log(this.$router)
+			console.log(this.$route)
+		//		console.log(this.$router)
 		// console.log(this.params) //接收路由页面传过来的值
 		}
 	}
