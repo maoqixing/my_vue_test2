@@ -12,7 +12,7 @@
 import HelloWorld from '@/components/HelloWorld.vue'
 import {reactive,toRefs,computed} from "@vue/composition-api"
 export default {
-  name: 'Home',
+  name: 'Home', 
   // components: {
   //   HelloWorld
   // },
